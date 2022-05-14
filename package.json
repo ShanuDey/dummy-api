@@ -1,0 +1,12 @@
+{
+  "name": "dummy-api",
+  "version": "1.0.0",
+  "description": "dummy api for quick frontend app development",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "ShanuDey",
+  "license": "ISC"
+}
